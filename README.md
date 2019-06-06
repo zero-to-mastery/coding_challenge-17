@@ -25,7 +25,7 @@ The rest is up to you to research and figure out. Use this as a challenge to lea
 
 ## Submissions:
 
-Supperhero#5600
+**Supperhero#5600**
 Github Repo  
 https://github.com/Supperhero1/chatbot  
 Other Link  
@@ -35,27 +35,27 @@ Author Description
 I decided to give my chatbot the ability to speak so I integrated the google text to speech algorithm into my code. The IP address is the website I set up but haven’t gotten around to getting a domain for. It will eventually be a profile page. The server is runing on a scaleway server. The conde won’t work if you try to run it as it’s missing a bunch of API keys that I can’t give out but you can see the working version on the site. Ask the bot about details on how he was made if you’re interested.  
 
 
-MOP_PY#1661 
-Heroku Deployment 
-https://face-recognition-brainx.herokuapp.com/ 
+**MOP_PY#1661**
+Heroku Deployment  
+https://face-recognition-brainx.herokuapp.com/  
 Github Repo 
-https://github.com/mariuspetan/face-recognition-brainx 
-Other Link. 
-https://assistant-us-south.watsonplatform.net/us-south/crn:v1:bluemix:public:conversation:us-south:a~2F94b8e857f962420a8c36b847797df69a:d78a634e-1f45-47c4-aabd-264381829f4c::/assistants/410e3688-440d-4e49-8e54-ae838faa9cb0. 
-Github Repo. 
-https://github.com/lukemccomb/watson-assistant-chatbot-ui. 
+https://github.com/mariuspetan/face-recognition-brainx  
+Other Link  
+https://assistant-us-south.watsonplatform.net/us-south/crn:v1:bluemix:public:conversation:us-south:a~2F94b8e857f962420a8c36b847797df69a:d78a634e-1f45-47c4-aabd-264381829f4c::/assistants/410e3688-440d-4e49-8e54-ae838faa9cb0  
+Github Repo  
+https://github.com/lukemccomb/watson-assistant-chatbot-ui  
 ​-----
-Author Description. 
-​This is my entry to coding challenge 17. Watson Assistant is used in chatbot available on bottom right side of the page. Integration of Watson Assistant app with face recognition app (React) was done based on Lucas's project provided under this link:  
+Author Description.  
+This is my entry to coding challenge 17. Watson Assistant is used in chatbot available on bottom right side of the page. Integration of Watson Assistant app with face recognition app (React) was done based on Lucas's project provided under this link.
 
 
-frozenfroggie#5786
-Github Repo
-https://github.com/frozenfroggie/chatter
-Github Repo
-https://github.com/frozenfroggie/chatter-api
-Other Link
-https://chatter.cf/
+**frozenfroggie#5786**
+Github Repo  
+https://github.com/frozenfroggie/chatter  
+Github Repo  
+https://github.com/frozenfroggie/chatter-api  
+Other Link  
+https://chatter.cf/  
 
 ## The Rules Are:
 
